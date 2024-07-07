@@ -8,9 +8,9 @@ MDNet is a state-of-the-art deep learning model designed for emotion recognition
 
 This repository contains the implementation of the model described in the paper titled "Multi-level Disentangling Network for Cross-Subject Emotion Recognition based on Multimodal Physiological Signals" by Ziyu Jia, Fengming Zhao, Yuzhe Guo, Hairong Chen, and Tianzi Jiang. 
 
-The paper has been accepted for publication at IJCAI 2024 [[paper](URL_to_paper)].
+The paper has been accepted for publication at IJCAI 2024 [[paper](https://github.com/hairongChenDavid/MDNet)].
 
-Code for the model in the paper *Multi-level Disentangling Network for Cross-Subject Emotion Recognition based on Multimodal Physiological Signals* [[github](URL_to_github)].
+Code for the model in the paper *Multi-level Disentangling Network for Cross-Subject Emotion Recognition based on Multimodal Physiological Signals* [[github](https://github.com/hairongChenDavid/MDNet)].
 
 
 
@@ -46,7 +46,7 @@ MDNet/
 # Part contains loss functions used by MDNet. 
 │
 ├── modality_Encoder.py
-# Modality encoder that extracts initial features. EEG_Encoder can be only used to process EEG signals. EOG_Encoder can be adapted to process EOG, ECG, EMG signals.
+# Modality encoder that extract initial features. EEG_Encoder can be  only used to process EEG signals. EOG_Encoder can be adapted to process EOG,ECG,EMG signals.
 │
 ├── models.py                
 # Contains the implementation of the MDNet model, detailing the architecture and its functionalities.
