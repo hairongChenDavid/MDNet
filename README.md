@@ -63,11 +63,24 @@ MDNet/
 
 If you find this useful, please cite our work as follows:
 
-    @inproceedings{jia2024multilevel,
-      title={Multi-level Disentangling Network for Cross-Subject Emotion Recognition based on Multimodal Physiological Signals},
-      author={Jia, Ziyu and Zhao, Fengming and Guo, Yuzhe and Chen, Hairong and Jiang, Tianzi},
-      booktitle={IJCAI 2024},
-      year={2024}
+    @inproceedings{DBLP:conf/ijcai/JiaZGCJ24,
+      author       = {Ziyu Jia and
+                      Fengming Zhao and
+                      Yuzhe Guo and
+                      Hairong Chen and
+                      Tianzi Jiang},
+      title        = {Multi-level Disentangling Network for Cross-Subject Emotion Recognition
+                      Based on Multimodal Physiological Signals},
+      booktitle    = {Proceedings of the Thirty-Third International Joint Conference on
+                      Artificial Intelligence, {IJCAI} 2024, Jeju, South Korea, August 3-9,
+                      2024},
+      pages        = {3069--3077},
+      publisher    = {ijcai.org},
+      year         = {2024},
+      url          = {https://www.ijcai.org/proceedings/2024/340},
+      timestamp    = {Fri, 18 Oct 2024 20:53:37 +0200},
+      biburl       = {https://dblp.org/rec/conf/ijcai/JiaZGCJ24.bib},
+      bibsource    = {dblp computer science bibliography, https://dblp.org}
     }
 
 
