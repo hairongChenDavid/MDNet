@@ -43,10 +43,10 @@ This section outlines the organization of the repository and the purpose of its 
 MDNet/
 │
 ├── functions.py
-# Part contains loss functions used by MDNet. 
+# Contains loss functions used by MDNet. 
 │
 ├── modality_Encoder.py
-# Modality encoder that extract initial features. EEG_Encoder can be  only used to process EEG signals. EOG_Encoder can be adapted to process EOG,ECG,EMG signals.
+# Modality encoder that extract initial features. EEG_Encoder can only be used to process EEG signals. EOG_Encoder can be adapted to process EOG, ECG, EMG signals.
 │
 ├── models.py                
 # Contains the implementation of the MDNet model, detailing the architecture and its functionalities.
